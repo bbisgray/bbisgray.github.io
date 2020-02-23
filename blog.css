@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5rem;
+}
+
+/* 횡정렬 센터정렬 바디와의 간격 */
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+/* 부트스트은 예시 웹사이트 임
+   너무나도 단순한 디자인
+   느린 로딩 시간 */
